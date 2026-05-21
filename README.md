@@ -20,4 +20,4 @@
 
 ### 💌 Как со мной связаться
 * **Telegram:** [Anastasiia_Sham](https://t.me/Anastasiia_Sham).
-* **LinkedIn:** [Anastasia Sham](https://www.linkedin.com/in/anastasiia-sham-27ba4b26a/).
+* **LinkedIn:** [Anastasiia Sham](https://www.linkedin.com/in/anastasiia-sham-27ba4b26a/).
