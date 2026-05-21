@@ -13,11 +13,11 @@
 
 ### 📍 Мои ключевые проекты
 
-* 🎮 **[Cookie Cats: A/B-Test Analysis](https://github.com/anastasiiasham16-ui/cookie-cats-ab-test)** – Статистический анализ результатов эксперимента в мобильной игре. Использовала Z-тест и Bootstrap для оценки Retention Day 1 и Day 7 после QA-очистки данных. Обосновала отмену раската фичи (перенос ворот) для предотвращения оттока пользователей.
+* 🕹️ **[Cookie Cats: A/B-Test Analysis](https://github.com/anastasiiasham16-ui/cookie-cats-ab-test)** – Статистический анализ результатов эксперимента в мобильной игре. Использовала Z-тест и Bootstrap для оценки Retention Day 1 и Day 7 после QA-очистки данных. Обосновала отмену раската фичи (перенос ворот) для предотвращения оттока пользователей.
 * 🛍️ **[E-commerce Analytics & RFM (Olist)](https://github.com/anastasiiasham16-ui/olist-ecommerce-analytics)** – Комплексный анализ клиентской базы бразильского маркетплейса. Реализовала когортный анализ удержания и RFM-сегментацию. Выявила скрытый высокочековый сегмент («Перспективные»), генерирующий 30.4% выручки, и разработала продуктовую стратегию по welcome-цепочкам и реактивации «уснувшей» базы.
 
 ---
 
 ### 💌 Как со мной связаться
-* Мой [Telegram](@Anastasiia_Sham)
-* Мой [LinkedIn](www.linkedin.com/in/anastasiia-sham-27ba4b26a)
+* **Telegram:** [Anastasiia_Sham](https://t.me/Anastasiia_Sham).
+* **LinkedIn:** [Anastasia Sham](https://www.linkedin.com/in/anastasiia-sham-27ba4b26a/).
