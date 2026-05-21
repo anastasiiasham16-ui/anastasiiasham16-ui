@@ -1,5 +1,5 @@
 # Привет! Я Анастасия Шам 👋
-**Junior+ Data / Product / Marketing Analyst** 
+**Junior+ Data / Marketing Analyst** 
 
 Я занимаюсь продуктовой и маркетинговой аналитикой, помогая бизнесу находить точки роста на основе данных. Специализируюсь на исследованиях для GameDev, FoodTech и E-commerce.
 
